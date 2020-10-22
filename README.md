@@ -1,4 +1,4 @@
-# 👋 Hello and WELCOME 👋
+# 👋 WELCOME 👋
 
 ## **I'm Joe**
 
@@ -11,14 +11,13 @@ When I'm not being an amazingly **cool** and **hip** dad, you can find me develo
   * Python
   * MySQL
   
-- 🔭 Working on an app for [Eco-Soap Bank](www.ecosoapbank.org)
-- 🌱 Currently neck deep in learning ARKit and CoreML
-- 👯 Interested in collaboration with any Swift/Python developers!
-- 🤔 I’m looking for help with my job search :) 
-- 📫 How to reach me:
-  -[LinkedIn](https://www.linkedin.com/in/joseph-veverka/)
-  -[Facebook](https://www.facebook.com/joseph.veverka.9)
-  -[Email](joeveverka89@gmail.com)
+My current developmental passions consist of Augmented Reality, Game Design, Health & Wellness and community-based applicaitons. 
+
+- 👯 I'm interested in collaborating with any Swift/Python developers!
+- 📫 Contact me on the socials:
+  * [LinkedIn](https://www.linkedin.com/in/joseph-veverka/)
+  * [Facebook](https://www.facebook.com/joseph.veverka.9)
+  * [Email](joeveverka89@gmail.com)
 
 
 
