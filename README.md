@@ -1,8 +1,8 @@
-# Hello and WELCOME 👋
+# 👋 Hello and WELCOME 👋
 
-**I'm Joe**
-___________
-When I'm not being an amazingly cool and hip dad, you can find me developing all kinds of iOS apps
+## **I'm Joe**
+
+When I'm not being an amazingly **cool** and **hip** dad, you can find me developing all kinds of iOS apps
 
 * Fluent in: 
   * Swift
