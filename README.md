@@ -3,7 +3,7 @@
 **I'm Joe**
 
 When I'm not being an amazingly **cool** and **hip** dad, you can find me developing all kinds of iOS apps.
-##### My current developmental passions consist of Augmented Reality, Game Design, Health & Wellness and community-based applicaitons. 
+My current developmental passions consist of AR, Game Design, Health & Wellness and anything music related. 
 
 * Fluent in: 
   * Swift
