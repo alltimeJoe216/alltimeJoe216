@@ -16,6 +16,5 @@ My current developmental passions consist of AR, Game Design, Health & Wellness 
 
 - 📫 Contact me on the socials:
   * [LinkedIn](https://www.linkedin.com/in/joseph-veverka/)
-  * [Facebook](https://www.facebook.com/joseph.veverka.9)
   * [Email](joeveverka89@gmail.com)
 
