@@ -18,4 +18,3 @@ My current developmental passions consist of AR, Game Design, Health & Wellness 
   * [LinkedIn](https://www.linkedin.com/in/joseph-veverka/)
   * [Email](joeveverka89@gmail.com)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=alltimejoe216)](https://github.com/anuraghazra/github-readme-stats)
